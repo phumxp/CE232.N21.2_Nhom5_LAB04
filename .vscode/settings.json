@@ -1,0 +1,17 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\xtensa-esp-elf-gdb\\11.2_20220823\\xtensa-esp-elf-gdb\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\riscv32-esp-elf-gdb\\11.2_20220823\\riscv32-esp-elf-gdb\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\xtensa-esp32-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32-elf\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s2-elf\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s3-elf\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\riscv32-esp-elf\\esp-2021r2-patch5-8.4.0\\riscv32-esp-elf\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\cmake\\3.23.1\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20221026\\openocd-esp32\\bin;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\ninja\\1.10.2;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\idf-exe\\1.0.3;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\ccache\\4.3\\ccache-4.3-windows-64;d:\\Applications\\ESP\\v4.4.4\\.espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"d:\\\\Applications\\\\ESP\\\\v4.4.4\\\\.espressif\\\\tools\\\\openocd-esp32\\\\v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
+    "idf.espIdfPathWin": "d:\\Applications\\ESP\\v4.4.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM3",
+    "idf.pythonBinPathWin": "d:\\Applications\\ESP\\v4.4.4\\.espressif\\python_env\\idf4.4_py3.8_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "d:\\Applications\\ESP\\v4.4.4\\.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "nvs_flash.h": "c"
+    }
+}
